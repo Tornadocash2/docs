@@ -1,4 +1,4 @@
-# Introduction to Tornado Cash
+# Introduction to Tornado Cash v2.0
 
 ![](.gitbook/assets/image.png)
 
